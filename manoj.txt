@@ -12,3 +12,8 @@ My name is Manoj
 im from hyderabad,india
 
 Thank you
+today's date is 30-07-21
+i learnt how to create a new branch from git
+how to merge 
+how to delete
+how to clone
